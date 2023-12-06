@@ -20,7 +20,7 @@ const productos = () => {
         }
     }
 
-    alert(`La suma total de sus productos es de: ${total} Pesos Argentinos.`);
+    alert(`La costo total de sus productos es de: ${total} Pesos Argentinos.`);
     return total;
 }
 
